@@ -1,11 +1,11 @@
 {
-    "project_name": "your new project's name",
-    "project_description": "",
+    "project_name": "R Notebooks Example",
+    "project_description": "Trying to get R notebooks working",
     "creators": {"creator_list": 
         [
             {
             "orcid": "",
-            "name": "Surname, Givenname"
+            "name": "Mather, Marius"
             }
         ]
     },
